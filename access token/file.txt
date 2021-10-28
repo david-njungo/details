@@ -110,3 +110,53 @@ github account
 https://github.com/david-njungo?tab=repositories
 canvas
 https://moringaschool.instructure.com/
+linked in presentation
+https://docs.google.com/presentation/d/1b__cmwm3caetNSpIAQxStN8scox66SD9JOhirGe7d7I/edit#slide=id.p27
+
+udemy
+https://www.udemy.com/courses/development/programming-languages/
+financial times
+https://www.ft.com/content/3232ccdd-6d53-4c50-ab82-911738ecf92e
+
+github mat api 
+Backend codebase: https://gitlab.com/Moringa-School/mat-api
+Frontend codebase:https://gitlab.com/Moringa-School/MAT-FRONT-END
+
+python3.8 tutorial
+https://www.youtube.com/watch?v=RGor6fssp6c&list=PLEsfXFp6DpzQjDBvhNy5YbaBx9j-ZsUe6
+
+djangorest web  api
+https://www.youtube.com/playlist?list=PLx-q4INfd95EsUuON1TIcjnFZSqUfMf7s
+python flask tags 
+https://docs.google.com/document/d/1EuahCIaga2JdYQoLT15Ll-3UIpipSSiXEEAaBb6segU/edit
+flask docs
+https://moringaclassroom.slack.com/files/U02AL2DDW92/F02BNB4A3FH/miguel_grinberg_-_flask_web_development__developing_web_applications_with_python__2018__o___reilly_media__-_libgen.lc.pdf
+figma basics 
+https://www.youtube.com/watch?v=jk1T0CdLxwU
+
+7 Steps to a Simple and Amazing Presentations
+Step 1: Introduction
+Every group member should introduce themselves by their names
+Then state what role they played in the project.
+Step 2: Problem statement and Project name
+State the problem statement or why you as a group chose to build such a project or rather what purpose does your project fulfill.Thereafter introduce/state the name of your project. Do not forget to relate the project to the audience.
+Step 3: Development Process and MVP
+Describe how the team development process worked in your group.
+Explain the team workflow and how you worked from product design to having a complete application.
+Step 4: Demo
+Explain how your product works. You can do this through a live demo. When doing this be keen to mention the important features of your product and how it actually works.
+Talk about the amazing technologies that you used to build your product. Remember to explain this in detail since you may have people in the audience that are not technical.
+Step 5: Technologies Used
+State the technologies you used to build your product, why you chose them and how you implemented them in your product.
+Step 6: Challenges Faced
+Share the biggest challenges you faced and how you overcame them
+Step 7: Future Plans
+
+using javascript fetch api
+https://www.digitalocean.com/community/tutorials/how-to-use-the-javascript-fetch-api-to-get-data
+
+software development cycle
+https://phoenixnap.com/blog/software-development-life-cycle
+
+javascript for beginners
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET
