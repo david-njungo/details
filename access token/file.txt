@@ -106,3 +106,7 @@ The calorie counter app is a great way to keep track of all the calories you are
 Project idea – Build a web app to manage the work of a hospital. The system shall have an interface to create a doctor’s account and add records of all the details of the patient. It should also have easy accessing and searching of records technique.
 https://www.interviewbit.com/angular-interview-questions/
 
+github account
+https://github.com/david-njungo?tab=repositories
+canvas
+https://moringaschool.instructure.com/
