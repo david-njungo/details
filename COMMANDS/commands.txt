@@ -1,0 +1,17 @@
+$ pwd: Prints the path of the current directory to the screen
+$ ls: Lists out the contents of the current folder
+$ cd directory-name: Changes the current directory to the one specified
+$ cd or $ cd ~: Changes the current directory to the home directory
+$ cd ..: Changes the current directory up one level
+$ mkdir directory-name: Creates a new directory (folder) in the current directory with the name specified
+$ touch file-name.html: Creates a new, empty file in the current directory with the name specified
+$ cp original-file.html new-file.html: Creates a duplicate copy of the first file listed and gives it the name of the second file listed. Both files still exist.
+$ mv original-file-name.html new-file-name.html: Moves the contents of the first file into the second file. Effectively renames the file.
+$ mv sample-file.html new-location/sample-file.html: Moves the first file into the folder specified for the second file.
+$ rm file-name.html: Removes the file specified.
+$ rm -rf directory-name: Removes the folder specified and all of the files inside.
+$ clear: Clears the terminal screen.
+Terminology
+file path: The location of a file or folder in the file system. For example: Users/MoringaSchool/Pictures/cute-kitten.jpg is the path for the image called cute-kitten.jpg.
+directory: Another name for a folder in a file system. For example, Users/MoringaSchool/Pictures/cute-kitten.jpg has 3 directories: Users, MoringaSchool, and Pictures.
+home directory: The highest-level directory on a computer - this is the default directory when you open the terminal.

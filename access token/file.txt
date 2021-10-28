@@ -1,0 +1,108 @@
+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
+API KEY d59d50094f2185c3083a425de692fb2e
+sudo dmidecode -t system
+sudo apt-get install -y python3-psycopg2
+## SETUP INSTALLATIONS
+* Initialize git & make your repo and first commit
+```
+git init 
+```
+* python virtual env
+```
+python3.6 -m venv --without-pip virtual
+curl https://bootstrap.pypa.io/get-pip.py | python
+python3.9 -m venv virtual
+```
+* Flask version
+```
+pip install flask==1.1.4
+```
+* SQLAlchemy
+```
+pip install flask-SQLAlchemy==2.2
+```
+* Flask-script
+```
+pip install flask-script
+```
+* Flask-Migrate
+```
+pip install flask-migrate==2.1.1
+```
+* Flask-Wtf
+```
+pip install flask-wtf
+```
+* Werkzeug
+```
+pip install -U Werkzeug==0.16.0
+```
+* psycopg2
+```
+pip install psycopg2-binary
+```
+pip install --force-reinstall flask==1.0.2
+ pip install "Flask == 1.1.4"
+ curl https://bootstrap.pypa.io/get-pip.py | python
+ chmod a+x start.sh
+ kill -9 $(ps -A | grep python | awk '{print $1}')
+ pip install -r requirements.txt
+ SQLALCHEMY_DATABASE_URI = os.environ.get("DATABASE_URL")  # or other relevant config var
+    if SQLALCHEMY_DATABASE_URI.startswith("postgres://"):
+        SQLALCHEMY_DATABASE_URI = SQLALCHEMY_DATABASE_URI.replace("postgres://", "postgresql://", 1)
+        heroku addons:create heroku-postgresql
+        heroku run python3.6 manage.py db upgrade
+heroku git:remote -a your_app_name
+
+
+sudo snap install postman
+
+
+
+
+
+
+
+
+Dry Run Toy problems
+ 
+1. Given: Two positive integers A and B each less than 1000.
+Return: The integer corresponding to the square of the hypotenuse of the right triangle whose legs have lengths a and b
+Sample Dataset 3, 5 
+Sample Output 34 
+ 
+
+2. Given: Two positive integers a and b (a<b<10000, a<b<10000).
+Return: The sum of all odd integers from a through b, inclusively.
+
+
+3. Given: A file containing at most 1000 lines.
+Return: A file containing all the even-numbered lines from the original file. Assume 1-based numbering of lines.
+
+
+4. Given: A string s of length at most 10000 letters.
+Return: a dictionary (hash map in java) containing the number of occurrences of each word in s, where words are separated by spaces. Words are case-sensitive, and the lines in the output can be in any order.
+
+
+5. Given: A string s of length at most 200 letters and four integers a, b, c and d.
+Return: The slice of this string from indices a through b and c through d (with space in between), inclusively. In other words, we should include elements s[b] and s[d] in our slice.
+
+
+6. Assume "#" is like a backspace in string. This means that string "a#bc#d" actually is "bd"
+Your task is to process a string with "#" symbols.
+
+
+7. Take a string of of characters and decode it into an array. Each character is a single element in the result unless a backslash followed by a number is encountered.When a backslash followed by a number is found, the number indicates how many of the next characters are grouped together as one element. 
+Example:
+'abc\5defghi\2jkl' => ['a', 'b', 'c', 'defgh', 'i', 'jk', 'l']
+
+
+
+
+
+
+The calorie counter app is a great way to keep track of all the calories you are burning every day. The user can add all the food they are eating and the app will count the calories. We can further add a function for users to add their daily workout sessions, running and jogging to calculate how much calories they have burned.
+
+Project idea – Build a web app to manage the work of a hospital. The system shall have an interface to create a doctor’s account and add records of all the details of the patient. It should also have easy accessing and searching of records technique.
+https://www.interviewbit.com/angular-interview-questions/
+
